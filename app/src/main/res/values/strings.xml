@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cek HP Bekas</string>
+    <string name="lblWelcome1">Selamat Datang di</string>
+    <string name="r_lblWelcome2">APLIKASI CEK HARGA HP BEKAS</string>
+    <string name="r_lblSilahkanCek">Silahkan Pilih MEREK dan TIPE HP Bekas anda untuk mengetahui harga beli kami</string>
+    <string name="r_btnCekHarga">CEK HARGA</string>
+    <string name="r_lblMerekHP">MEREK HP</string>
+    <string name="r_lblTipeHP">TIPE HP</string>
+    <string name="r_lblHargaHP">HARGA HP</string>
+    <string name="r_txtMerekHP">MEREK HP</string>
+    <string name="r_txtTipeHP">TIPE HP</string>
+    <string name="r_txtHargaHP">HARGA HP</string>
+</resources>
